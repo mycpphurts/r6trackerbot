@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "discord.js": "^14.14.1",
     "r6s-stats-api": "^1.3.0"
-  }
+  },
+  "name": "r6trackerbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
